@@ -1,1 +1,1 @@
-# Bicubic Interpolation
+# Super Resolution
