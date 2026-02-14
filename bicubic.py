@@ -45,7 +45,7 @@ try:
 
                     q1 = (-ttt + 2*tt - t) / 2
                     q2 = (3*ttt - 5*tt + 2) / 2
-                    q3 = (-3*ttt + 4*t + t) / 2
+                    q3 = (-3*ttt + 4*tt + t) / 2
                     q4 = (ttt - tt) / 2
                     
                     p1 = r_upscale[i, j-3]
@@ -122,7 +122,7 @@ try:
 
                 q1 = (-ttt + 2*tt - t) / 2
                 q2 = (3*ttt - 5*tt + 2) / 2
-                q3 = (-3*ttt + 4*t + t) / 2
+                q3 = (-3*ttt + 4*tt + t) / 2
                 q4 = (ttt - tt) / 2
                 
                 p1 = r_upscale[i-3, j]
